@@ -72,13 +72,13 @@ This took 0.011655330657958984 seconds.
 
 This took 0.015809297561645508 seconds.
 ----------------------------------------
-would you like to see the first 5 rows of data? Enter yes or no : yes
-     Unnamed: 0          Start Time     ...                                                    trip  Travel Time
-1       4096714 2017-05-11 15:30:11     ...               Lexington Ave & E 63 St , 1 Ave & E 78 St     00:11:32
-66      4079228 2017-05-11 09:03:18     ...             W 84 St & Broadway , Columbus Ave & W 72 St     00:05:38
-128     3789757 2017-05-04 20:01:39     ...                  E 51 St & 1 Ave , Maiden Ln & Pearl St     00:35:01
-157     3744138 2017-05-04 07:58:56     ...       President St & Henry St , Schermerhorn St & Co...     00:10:52
-180     3777400 2017-05-04 17:31:59     ...       Kent Ave & N 7 St , Metropolitan Ave & Bedford...     00:03:35
+- would you like to see the first 5 rows of data? Enter yes or no : yes
+-     Unnamed: 0          Start Time     ...                                                    trip  Travel Time
+- 1       4096714 2017-05-11 15:30:11     ...               Lexington Ave & E 63 St , 1 Ave & E 78 St     00:11:32
+- 66      4079228 2017-05-11 09:03:18     ...             W 84 St & Broadway , Columbus Ave & W 72 St     00:05:38
+- 128     3789757 2017-05-04 20:01:39     ...                  E 51 St & 1 Ave , Maiden Ln & Pearl St     00:35:01
+- 157     3744138 2017-05-04 07:58:56     ...       President St & Henry St , Schermerhorn St & Co...     00:10:52
+- 180     3777400 2017-05-04 17:31:59     ...       Kent Ave & N 7 St , Metropolitan Ave & Bedford...     00:03:35
 
 [5 rows x 13 columns]
 - would you like to see the next 5 rows of data? : no
